@@ -1,0 +1,6 @@
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Dominio\bin\Debug\Dominio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Dominio\bin\Debug\Dominio.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Dominio\obj\Debug\Dominio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Dominio\obj\Debug\Dominio.pdb

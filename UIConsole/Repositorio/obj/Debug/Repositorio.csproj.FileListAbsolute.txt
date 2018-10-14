@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\Dominio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\Dominio.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.Migrations.DbInicial.resources
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Repositorio\obj\Debug\Repositorio.csproj.GenerateResource.cache

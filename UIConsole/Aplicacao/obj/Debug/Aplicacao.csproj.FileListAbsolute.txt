@@ -1,0 +1,17 @@
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Aplicacao.dll.config
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Dominio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Repositorio.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Dominio.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Repositorio.pdb
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\Repositorio.dll.config
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\obj\Debug\Aplicacao.csproj.CopyComplete
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\T-Gamer\Documents\GitHub\CRUD-EntityFramework\UIConsole\Aplicacao\obj\Debug\Aplicacao.pdb
